@@ -96,4 +96,4 @@ General Informations:
 
 ## Credits
 Many thanks to [RuslanUC](https://github.com/RuslanUC) for [RemoteAuthClient](https://github.com/RuslanUC/RemoteAuthClient) and [TurfuFrogy](https://github.com/TurfuFrogy) for developing the database part of the tool.
-# FakeVerificatioBot
+# FakeVerificationBot
